@@ -1,0 +1,1 @@
+window.location.href = "https://www.amazon.com.br/Modern-PHP-Josh-Lockhart/dp/1491905018/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3IHPH345QR24V&keywords=php+good+practices&qid=1653490603&sprefix=php+good+practice%2Caps%2C216&sr=8-2&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74"
